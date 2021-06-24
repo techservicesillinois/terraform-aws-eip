@@ -1,6 +1,6 @@
 # eip
 
-[![Build Status](https://drone.techservices.illinois.edu/api/badges/techservicesillinois/terraform-aws-eip/status.svg)](https://drone.techservices.illinois.edu/techservicesillinois/terraform-aws-eip)
+[![Terraform actions status](https://github.com/techservicesillinois/terraform-aws-eip/workflows/terraform/badge.svg)](https://github.com/techservicesillinois/terraform-aws-eip/actions)
 
 Provides an Elastic IP resource.
 
